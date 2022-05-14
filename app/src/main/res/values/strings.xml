@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Bazar amsiedad</string>
+    <string name="tvEmail">Email:</string>
+    <string name="tvPass">Password:</string>
+    <string name="etEmail">example@mail.com</string>
+    <string name="etPass">Password...</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnReg">Registrate</string>
+    <string name="tvReg">Crea una cuenta</string>
+    <string name="tvName">Nombre:</string>
+    <string name="etName">Tu nombre...</string>
+    <string name="btnSign">Crear una cuenta</string>
+    <string name="tvLog">Iniciar sesión</string>
+    <string name="btnLogout">Logout</string>
+    <string name="tvProd">Catalogo de productos...</string>
+    <string name="btnPed">Historial de pedidos</string>
+    <string name="tvPed">Mis pedidos...</string>
+    <string name="tvReal">Realiza un pedido</string>
+    <string name="tvNomP">Nombre del producto:</string>
+    <string name="tvCant">Cantidad:</string>
+    <string name="etCant">00</string>
+    <string name="btnReal">Pedir</string>
+    <string name="tvAdd">Agregar producto</string>
+    <string name="etNomPA">Producto</string>
+    <string name="tvPrecioA">Precio:</string>
+    <string name="etPrecioA">$0000</string>
+    <string name="btnAddP">Agregar</string>
+    <string name="tvDelP">Eliminar producto</string>
+    <string name="btnDelP">Eliminar</string>
+    <string name="tvModP">Modificar precio</string>
+    <string name="tvPrecioM">Nuevo precio:</string>
+    <string name="btnMod">Modificar</string>
+    <string name="btnPedUs">Pedidos usuarios</string>
+</resources>

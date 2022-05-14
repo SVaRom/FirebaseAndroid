@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86480047831",
+    "project_id": "proyecto-unidad-4-68389",
+    "storage_bucket": "proyecto-unidad-4-68389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86480047831:android:6cb55c109ec398f8df6a92",
+        "android_client_info": {
+          "package_name": "com.svarom.proyectofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86480047831-un5cun320h0t290e0c6ccp7non45d2gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD__Po36TqfpdzHEVW6SxKkHSeNPnNCbdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86480047831-un5cun320h0t290e0c6ccp7non45d2gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
